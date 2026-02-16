@@ -46,4 +46,4 @@ I then gathered the graphs i had made and combined them into a dashboard visuali
 
 For this I simply imported the previously made graphs, and drew out some key KPIs to highlight the main takeaways from each section
 
-This resulted in the completed workbook, which you can find [here](
+This resulted in the completed workbook, which you can find [here](https://public.tableau.com/app/profile/thomas.barkshire/viz/Myanmardraft7/MyanmarCivilWar)
